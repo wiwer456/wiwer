@@ -1445,8 +1445,21 @@ section {
   height: 50px;
   width: 50px;
   border-radius: 20px;
+  background-color: #777777;
 }
 .NierML{
   background: url("../img/NierML-BG.png") top center;
+  background-size: 100%;
+}
+.NoImg{
+  background: url("../img/NoImage.jpg") top center;
+  background-size: 100%;
+}
+.downloadBTN{
+  color: white;
+  background-color: black;
+}
+.ProfessionChooser{
+  background: url("../img/ProfessionChooser.jpg") top center;
   background-size: 100%;
 }
